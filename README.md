@@ -1,4 +1,3 @@
-### Hi there 👋 Welcome 
 
 <div id="header" align="center">
   <h1>Welcome</h1>
@@ -11,7 +10,7 @@
   <a href="https://medium.com/@bxbalaban">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="balabanbsr@gmail.com">
+  <a href="mailto:balabanbsr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>

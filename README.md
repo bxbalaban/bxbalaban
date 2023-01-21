@@ -1,7 +1,8 @@
 ### Hi there 👋 Welcome 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vccEk2tRacAve/giphy.gif" width="200"/>
+  <h1>Welcome</h1>
+  <img src="https://media.giphy.com/media/vccEk2tRacAve/giphy.gif" width="300"/>
 </div>
 <!--
 **bxbalaban/bxbalaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

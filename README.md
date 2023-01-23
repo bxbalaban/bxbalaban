@@ -2,13 +2,13 @@
 <div id="header" align="center">
   
  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
+   <img src="https://media.giphy.com/media/m9XcY7KSHk6yRRA78C/giphy.gif" width="100"/>
  </h1>
   
-<img src="https://media.giphy.com/media/m9XcY7KSHk6yRRA78C/giphy.gif" width="300"/>
+
   
-<img src="https://komarev.com/ghpvc/?username=bxbalaban&style=flat-square&color=blue" alt=""/> 
+<!-- <img src="https://komarev.com/ghpvc/?username=bxbalaban&style=flat-square&color=blue" alt=""/>  -->
   
 </div>
 
@@ -18,13 +18,17 @@
 ### :woman_technologist: About Me :
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications as well as mobile applications. 
+  
+  - 🧠: I have done my long term internship at Turkish Aerospace Inc. as a Sky Experience Assistant Engineer. Worked at Adesso SE in Dortmund for 3 months as a Erasmus+ intern
+  
+  - ✨ Won 3rd place at Teknofest 2021 - Technology for Humanity
 
 - :seedling: Exploring Blockchain and Solidity at the moment.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+<!-- - :zap: In my free time, I solve problems on Leetcode and read tech articles.-->
 
 - :mailbox:How to reach me: 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrabalaban/)[![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bxbalaban)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanbsr@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrabalaban/)[![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bxbalaban)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanbsr@gmail.com)[![CV Badge](https://img.shields.io/badge/CV-green?style=for-the-badge&logo=drive&logoColor=white)](https://drive.google.com/file/d/15CBe-gsYJQwfpERJiLL4oli3LxIpLQg5/view?usp=sharing)
  
     
 </div>

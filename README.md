@@ -20,7 +20,7 @@
 <!-- - :zap: In my free time, I solve problems on Leetcode and read tech articles.-->
 
 - :mailbox:How to reach me: 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrabalaban/)[![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bxbalaban)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanbsr@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanbsr@gmail.com)
  
     
 </div>

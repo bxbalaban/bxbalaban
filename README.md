@@ -17,9 +17,6 @@
 
 <!-- - :zap: In my free time, I solve problems on Leetcode and read tech articles.-->
 
-- :mailbox:How to reach me: 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanbsr@gmail.com)
- 
     
 </div>
 
